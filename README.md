@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 ## Run
 
-run bot1.py #without discord
+run bot1.py #without discord  
 run bot2.py #with discord
 
 ## Required to change
